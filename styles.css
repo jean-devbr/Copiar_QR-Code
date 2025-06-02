@@ -33,7 +33,7 @@ main {
 }
 div {
     
-    display: grid;
+    display: flex;
     flex-wrap: wrap;
     gap: 18px;
 }
@@ -44,7 +44,4 @@ img {
 h3 {
     display: flex;
     justify-content: center;
-}
-p {
-    margin-top: ;
 }
